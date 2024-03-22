@@ -1167,8 +1167,19 @@
                  "height":64,
                  "id":197,
                  "name":"game1",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/games\/footchinko2"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":81,
                  "x":1496,
@@ -1188,50 +1199,78 @@
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":""
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":161,
                  "x":1454,
                  "y":820
                 }, 
                 {
-                 "height":87,
+                 "height":128,
                  "id":202,
-                 "name":"gamedesk1",
+                 "name":"game3",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/games\/aktestgunsandbottles"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":47,
-                 "x":1464,
+                 "width":63,
+                 "x":1448,
                  "y":625
                 }, 
                 {
-                 "height":94,
+                 "height":132,
                  "id":203,
-                 "name":"gamedesk2",
+                 "name":"game4",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/games\/endlessseige"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":52,
-                 "x":1525,
+                 "width":67,
+                 "x":1515,
                  "y":620
                 }, 
                 {
-                 "height":92,
+                 "height":126,
                  "id":205,
-                 "name":"gamedesk3",
+                 "name":"game5",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/gamesnacks.com\/games\/unparkme"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":47,
-                 "x":1592,
+                 "width":62,
+                 "x":1590,
                  "y":625
                 }],
          "opacity":1,
