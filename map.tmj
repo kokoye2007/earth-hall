@@ -1945,7 +1945,7 @@
         {
          "name":"mapCopyright",
          "type":"string",
-         "value":"Credits: WorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
+         "value":"Update: Ko Ko Ye \nCredits: WorkAdventure (https:\/\/WorkAdventu.re) \nLicense: CC-BY-SA 3.0 (http:\/\/creativecommons.org\/licenses\/by-sa\/3.0\/)"
         }, 
         {
          "name":"mapDescription",
@@ -1960,7 +1960,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Auditorium"
+         "value":"earth"
         }, 
         {
          "name":"script",
