@@ -1105,12 +1105,12 @@
                  "name":"to-terminal",
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"\/@\/varcamp\/vc24\/terminal#from-earth"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":67,
                  "x":704,
@@ -1122,12 +1122,12 @@
                  "name":"to-terminal",
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"\/@\/varcamp\/vc24\/terminal#from-earth"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":67,
                  "x":864,
@@ -1139,12 +1139,12 @@
                  "name":"to-terminal",
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"\/@\/varcamp\/vc24\/terminal#from-earth"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":67,
                  "x":1023,
@@ -1913,7 +1913,7 @@
                  "name":"roofAuditorium",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":64,
                  "x":0,
                  "y":0
@@ -2008,7 +2008,7 @@
                  "name":"roofAuditorium2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":false,
+                 "visible":true,
                  "width":64,
                  "x":0,
                  "y":0
@@ -2042,7 +2042,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Auditorium"
+         "value":"Earth"
         }, 
         {
          "name":"script",
@@ -5095,7 +5095,7 @@
         {
          "columns":20,
          "firstgid":102010,
-         "image":"..\/vc24-travel-hub\/tilesets\/Anm_heal_003.png",
+         "image":"tilesets\/Anm_heal_003.png",
          "imageheight":512,
          "imagewidth":640,
          "margin":0,
