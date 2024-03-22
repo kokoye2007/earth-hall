@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <tileset version="1.10" tiledversion="1.10.2" name="Anm_heal_003" tilewidth="32" tileheight="32" tilecount="320" columns="20">
- <image source="../../vc24-travel-hub/tilesets/Anm_heal_003.png" trans="ff00ff" width="640" height="512"/>
+ <image source="Anm_heal_003.png" trans="ff00ff" width="640" height="512"/>
  <tile id="0">
   <animation>
    <frame tileid="0" duration="50"/>
