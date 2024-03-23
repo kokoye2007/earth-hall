@@ -1151,7 +1151,7 @@
                  "y":2480
                 }, 
                 {
-                 "height":1078.78787878788,
+                 "height":1112.12121212121,
                  "id":206,
                  "name":"jitsiUrl",
                  "properties":[
@@ -1181,11 +1181,11 @@
                          "value":"VarCamp Earth Hall"
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
-                 "width":763.636363636364,
+                 "width":769.69696969697,
                  "x":504.030303030303,
-                 "y":251.545454545455
+                 "y":218.212121212122
                 }],
          "offsetx":-1,
          "offsety":3,
