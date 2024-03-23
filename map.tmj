@@ -1100,7 +1100,7 @@
                  "y":192
                 }, 
                 {
-                 "height":84,
+                 "height":31,
                  "id":194,
                  "name":"to-terminal",
                  "properties":[
@@ -1114,10 +1114,10 @@
                  "visible":true,
                  "width":67,
                  "x":704,
-                 "y":2465
+                 "y":2480
                 }, 
                 {
-                 "height":84,
+                 "height":31,
                  "id":195,
                  "name":"to-terminal",
                  "properties":[
@@ -1131,10 +1131,10 @@
                  "visible":true,
                  "width":67,
                  "x":864,
-                 "y":2465
+                 "y":2482
                 }, 
                 {
-                 "height":84,
+                 "height":32,
                  "id":196,
                  "name":"to-terminal",
                  "properties":[
@@ -1148,7 +1148,44 @@
                  "visible":true,
                  "width":67,
                  "x":1023,
-                 "y":2468
+                 "y":2480
+                }, 
+                {
+                 "height":1078.78787878788,
+                 "id":206,
+                 "name":"jitsiUrl",
+                 "properties":[
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":"{ \"DEFAULT_BACKGROUND\": \"#00FF22\" }"
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"vc24-earth-hall"
+                        }, 
+                        {
+                         "name":"jitsiRoomAdminTag",
+                         "type":"string",
+                         "value":"speaker,vc24mod,admin"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"meetingRoomLabel",
+                         "type":"string",
+                         "value":"VarCamp Earth Hall"
+                        }],
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":763.636363636364,
+                 "x":504.030303030303,
+                 "y":251.545454545455
                 }],
          "offsetx":-1,
          "offsety":3,
@@ -1952,7 +1989,7 @@
                  "name":"roofAuditorium",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":64,
                  "x":0,
                  "y":0
@@ -2047,7 +2084,7 @@
                  "name":"roofAuditorium2",
                  "opacity":1,
                  "type":"tilelayer",
-                 "visible":true,
+                 "visible":false,
                  "width":64,
                  "x":0,
                  "y":0
@@ -2060,7 +2097,7 @@
          "y":0
         }],
  "nextlayerid":129,
- "nextobjectid":206,
+ "nextobjectid":208,
  "orientation":"orthogonal",
  "properties":[
         {
